@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile!
 
-I'm a BSIT graduate student interested in Python programming, Data Science, Artificial Intelligence, and Web Development. I enjoy learning new technologies and building projects to improve my programming skills.
+I'm a BSIT graduate interested in Python programming, Data Science, Artificial Intelligence, and Web Development. I enjoy learning new technologies and building projects to improve my programming skills.
 
 I have also learned Front-End Web Development, including HTML, CSS, and JavaScript, from beginner to intermediate level. My main focus is currently on Python, Data Analysis, and Artificial Intelligence.
 
